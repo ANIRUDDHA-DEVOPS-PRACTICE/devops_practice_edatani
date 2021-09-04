@@ -12,3 +12,5 @@
 --  2021/08/17		D  				oi336594/EDATANI	Avoid processing VSA-202 for only special character and alphabetic value
 ----------------------------------------------------------------------------------------------------------------
 
+ANI added one line in tokyo
+
